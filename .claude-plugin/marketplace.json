@@ -1,0 +1,14 @@
+{
+  "name": "ezkielyna",
+  "owner": { "name": "Ezekiel Lieberhart (Ezkielyna)", "url": "https://github.com/EzkielynaGroup" },
+  "metadata": { "description": "Claude Code plugins from the Ezkielyna developer toolkit. MIT licensed." },
+  "plugins": [
+    {
+      "name": "indonesia-data",
+      "source": "./plugins/indonesia-data",
+      "description": "Indonesian data for Claude without an API key: BMKG earthquakes and weather, Kemendagri region codes, public holidays and working days, Rupiah tools and offline QRIS parsing.",
+      "category": "data",
+      "keywords": ["indonesia", "bmkg", "qris", "rupiah", "holidays", "regions", "mcp"]
+    }
+  ]
+}

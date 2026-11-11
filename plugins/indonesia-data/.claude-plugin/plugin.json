@@ -1,0 +1,10 @@
+{
+  "name": "indonesia-data",
+  "version": "1.0.0",
+  "description": "Indonesian data for Claude without an API key: BMKG earthquakes and weather, Kemendagri region codes, public holidays and working days, Rupiah tools and offline QRIS parsing.",
+  "author": { "name": "Ezekiel Lieberhart (Ezkielyna)", "url": "https://github.com/EzkielynaGroup" },
+  "homepage": "https://github.com/EzkielynaGroup/claude-plugins",
+  "repository": "https://github.com/EzkielynaGroup/claude-plugins",
+  "license": "MIT",
+  "keywords": ["indonesia", "bmkg", "qris", "rupiah", "holidays", "regions", "mcp"]
+}

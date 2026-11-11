@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bmkg": { "command": "npx", "args": ["-y", "mcp-bmkg@1"] },
+    "wilayah-indonesia": { "command": "npx", "args": ["-y", "mcp-wilayah-indonesia@1"] },
+    "hari-libur-indonesia": { "command": "npx", "args": ["-y", "mcp-hari-libur-indonesia@1"] },
+    "rupiah": { "command": "npx", "args": ["-y", "mcp-rupiah@1"] },
+    "qris": { "command": "npx", "args": ["-y", "mcp-qris@1"] }
+  }
+}
